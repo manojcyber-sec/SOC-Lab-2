@@ -1,0 +1,11 @@
+Title: SOC Lab - Log Analysis
+
+I analyzed system logs using the journalctl command in Kali Linux.
+
+The logs displayed system activities, services, and process-related messages.
+
+I observed timestamps, system events, and background processes running on the system.
+
+I also noticed repeated system messages related to background processes, which appeared to be normal system behavior.
+
+This helped me understand how logs store system activity and how they are used for monitoring and analysis in a SOC environment.
